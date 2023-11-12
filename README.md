@@ -1,2 +1,2 @@
 # Coding Examples
-Repository containing examples of my code for prospective employers or PhD supervisors.
+Repository containing examples of my Python code.
